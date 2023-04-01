@@ -175,7 +175,6 @@ class _DetailScreenState extends State<DetailScreen> {
                       IconButton(
                         onPressed: () {
                           setState(() {
-                            //  counter++;
                             counter++;
                             //  this.updateCounter++;
                           });
